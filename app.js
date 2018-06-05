@@ -25,4 +25,4 @@ var x = setInterval(function() {
     clearInterval(x);
     document.getElementById("countdown").innerHTML = "Happy Summer Vacation!";
   }
-}, 1000);
+}, 500);
