@@ -1,1 +1,18 @@
+* {
+  box-sizing: border-box;
+}
 
+body {
+  margin: 0;
+  font-family: sans-serif;
+}
+
+#countdown {
+  margin: 0; 
+  padding: 0; 
+  text-align: center;
+  width: 100%;
+  vertical-align: middle;
+  display: table-cell;
+  font-weight: 100;
+}
