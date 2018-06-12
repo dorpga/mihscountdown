@@ -1,4 +1,4 @@
-@import url('https://fontlibrary.org/face/segment7');
+@import url('https://www.keshikan.net/dseg.css');
 
 * {
   box-sizing: border-box;
@@ -6,7 +6,7 @@
 
 body {
   margin: 0;
-  font-family: 'Segment7Standard', monospace;
+  font-family: 'D7ML', monospace;
 }
 
 #countdownWrapper {
