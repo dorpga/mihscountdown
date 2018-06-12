@@ -7,6 +7,8 @@
 body {
   margin: 0;
   font-family: 'D7ML', monospace;
+  background-color: black;
+  color: lime;
 }
 
 #countdownWrapper {
