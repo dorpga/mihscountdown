@@ -1,6 +1,5 @@
 @font-face {
   font-family: "D7ML";
-  font-weight: bold;
   src: url("DSEG7Modern-Light.woff") format('woff');
 }
 
@@ -31,6 +30,5 @@ body {
   width: 100%;
   vertical-align: middle;
   display: table-cell;
-  font-weight: 100;
   font-size: 8em;
 }
