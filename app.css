@@ -1,4 +1,7 @@
-@import url('https://www.keshikan.net/dseg.css');
+@font-face {
+  font-family: "D7ML";
+  src: url("https://www.keshikan.net/fonts/DSEG7Modern-Light.woff") format('woff');
+}
 
 * {
   box-sizing: border-box;
